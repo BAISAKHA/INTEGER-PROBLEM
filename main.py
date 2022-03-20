@@ -14,3 +14,5 @@ avg1=sum1/2
 avg2=sum2/2
 print(avg1)
 print(avg2)
+
+# hence sucessfull
